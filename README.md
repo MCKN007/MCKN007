@@ -1,16 +1,25 @@
-### Hi there 👋
+### 人生天地之間，若白駒之過隙，忽然而已
+---
+<img align="right" alt="GIF" src="https://src.sjtu.edu.cn/media/mugshot/7247/9af50d8e-5e0c-4663-a675-3c3df4d9065d.gif" />
 
-<!--
-**MCKN007/mckn007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm MCBBS_007
 
-Here are some ideas to get you started:
+- 现在就学于河间市第十四中学
+- 🌱 
+- ⭐ 想学代码但始终学不会
+- 💬 微信号：mcbbs007
+- ⚡ 爱好写代码，造火箭
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+### 🛠 技术栈 | Tech Stack
+- 💻 &#160; 程序开发
+- 🌐 &#160; 内网渗透
+- 🔧 &#160; 硬件狂魔
+- 🍪 &#160; 坚守开源
+
+
+### 关于我
+---
+待补充
 -->
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>

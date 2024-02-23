@@ -5,9 +5,9 @@
 ### I'm MCBBS_007
 
 - 🏫 河间市第十四中学
-- ⭐ 知音一个也难求
-- 💬 微信号：mcbbs007
-- ⚡ 爱好写代码，造火箭
+- ⭐ 真的想找个能说上话的人
+- 💬 如果你想和我聊聊加我微信mcbbs007
+- ⚡ 没什么个人爱好，只想平平淡淡过日子
 
 ### 🛠 技术栈 | Tech Stack
 - 💻 &#160; 程序开发
@@ -20,4 +20,4 @@
 ---
 待补充
 -->
-<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=sun0225SUN&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
+<div align="center"> <img height="137px" src="https://github-readme-stats.vercel.app/api?username=mckn007&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> </div>
